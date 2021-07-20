@@ -1,6 +1,5 @@
 # kock-shortener
 
-> Personal url shortener
+Simple URL shortener (https://kock.io) - Kock is my last name btw.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+To add a link run: `npm run shorten <destination> [<source>]`
