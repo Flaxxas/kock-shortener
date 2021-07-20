@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/twitch",
+      "destination": "https://twitch.tv/flaxxas"
+    },
+    {
       "source": "/",
       "destination": "https://softainable.de"
     },
