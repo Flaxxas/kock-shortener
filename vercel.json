@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/1337",
+      "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
+    },
+    {
       "source": "/stream",
       "destination": "https://twitch.tv/flaxxas"
     },
