@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/sop",
+      "destination": "https://www.youtube.com/watch?v=4z2DtNW79sQ"
+    },
+    {
       "source": "/1337",
       "destination": "https://www.youtube.com/watch?v=dQw4w9WgXcQ"
     },
