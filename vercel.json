@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/discord",
+      "destination": "https://discord.gg/XzFZmbtyPW"
+    },
+    {
       "source": "/wolter-scans-01-09-21",
       "destination": "https://drive.google.com/file/d/1DOG-aL7a8tT-BwHFZsmHMLtybcXU2O0l/view?usp=sharing"
     },
