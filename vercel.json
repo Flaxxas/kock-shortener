@@ -1,6 +1,10 @@
 {
   "redirects": [
     {
+      "source": "/wolter-scans-18-07-21",
+      "destination": "https://drive.google.com/file/d/1TXB6rR4ofaHKGnOE91XIwVi0CVJZ3f55/view?usp=sharing"
+    },
+    {
       "source": "/wolter-scans-19-09-21",
       "destination": "https://drive.google.com/file/d/1Pk7qLFaOjeryT9mpEy3R6kqwpoaEIeqS/view?usp=sharing"
     },
